@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Transitions</string>
+    <string name="pasa_el_fragment_a">Pasa el Fragment A</string>
+    <string name="animaciones_de_la_imagen_del_fragment">Animaciones de la imagen del Fragment</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="pasa_el_fragment_b">Pasa el Fragment B</string>
+</resources>
